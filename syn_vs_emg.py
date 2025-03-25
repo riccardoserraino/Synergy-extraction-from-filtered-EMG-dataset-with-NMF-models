@@ -2,15 +2,15 @@ import functions
 
 # Dictionary mapping numbers to dataset paths
 dataset_options = {
-    '1': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep0_pinch.bag',
-    '2': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep0_ulnar.bag',
-    '3': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep0_power.bag',
-    '4': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep1_pinch.bag',
-    '5': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep1_ulnar.bag',
-    '6': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep1_power.bag',
-    '7': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep2_pinch.bag',
-    '8': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep2_ulnar.bag',
-    '9': 'C:/Users/ricca/Desktop/int_th/dataset/emg_signal/rep2_power.bag'
+    '1': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep0_pinch.bag',
+    '2': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep0_ulnar.bag',
+    '3': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep0_power.bag',
+    '4': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep1_pinch.bag',
+    '5': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep1_ulnar.bag',
+    '6': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep1_power.bag',
+    '7': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep2_pinch.bag',
+    '8': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep2_ulnar.bag',
+    '9': 'C:/Users/ricca/Desktop/th_unibo/dataset/emg_signal/rep2_power.bag'
 }
 topic_name = 'emg_rms' # Found by looking at the dataset info
 
